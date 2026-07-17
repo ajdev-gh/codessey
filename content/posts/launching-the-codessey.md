@@ -2,6 +2,7 @@
 date: '2026-07-17T21:32:21+05:30'
 draft: false
 title: 'Launching The Codessey: Hello, World! 👋'
+tags: ['announcements']
 math: true
 ---
 Welcome to **The Codessey** - a digital logbook of my journey through the

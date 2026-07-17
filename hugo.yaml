@@ -3,12 +3,21 @@ locale: en-us
 title: The Codessey
 theme: PaperMod
 
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
 menu:
   main:
     - identifier: posts
       name: "Posts"
       url: "/posts/"
       weight: 10
+
+    - identifier: tags
+      name: "Tags"
+      url: "/tags/"
+      weight: 15
 
     - identifier: archives
       name: "Archive"
