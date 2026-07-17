@@ -1,6 +1,6 @@
 ---
 date: '2026-07-17T22:26:56+05:30'
-draft: true
+draft: false
 title: 'About Me: Behind the Terminal 📡'
 aliases: ["/about-me", "/bio"]
 ---
