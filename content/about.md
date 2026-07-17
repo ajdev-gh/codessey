@@ -41,7 +41,7 @@ It involves getting lost in documentation at 2 AM, building temporary sandbox
 projects just to scratch an itch, and continuously refactoring code until it
 feels right. 
 
-This blog is my public digital garden—a place to document my journey, share my
+This blog is my public digital garden, a place to document my journey, share my
 open-source contributions, and keep myself accountable as I level up my
 engineering skills.
 

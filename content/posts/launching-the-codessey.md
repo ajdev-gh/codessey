@@ -4,7 +4,7 @@ draft: false
 title: 'Launching The Codessey: Hello, World! 👋'
 math: true
 ---
-Welcome to **The Codessey**—a digital logbook of my journey through the
+Welcome to **The Codessey** - a digital logbook of my journey through the
 vast, unpredictable, and exciting ocean of computer science. Whether you
 are a fellow student, a seasoned developer, or someone who just appreciates
 a good debugging horror story, I’m glad you’re here.
