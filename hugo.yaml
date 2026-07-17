@@ -1,0 +1,43 @@
+baseURL: https://ajdev-gh.github.io/codessey/
+locale: en-us
+title: The Codessey
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: posts
+      name: "Posts"
+      url: "/posts/"
+      weight: 10
+
+    - identifier: archives
+      name: "Archive"
+      url: "/archives/"
+      weight: 20
+
+    - identifier: about
+      name: "About"
+      url: "/about/"
+      weight: 30
+
+    - identifier: github
+      name: "GitHub"
+      url: "https://github.com/ajdev-gh"
+      weight: 40
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - - '$$'
+              - '$$'
+            - - '\['
+              - '\]'
+          inline:
+            - - '$'
+              - '$'
+            - - '\('
+              - '\)'
