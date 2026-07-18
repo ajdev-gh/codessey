@@ -4,6 +4,7 @@ draft: false
 title: 'Launching The Codessey: Hello, World! 👋'
 tags: ['announcements']
 math: true
+ShowToc: true
 ---
 Welcome to **The Codessey** - a digital logbook of my journey through the
 vast, unpredictable, and exciting ocean of computer science. Whether you

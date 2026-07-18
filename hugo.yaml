@@ -31,19 +31,29 @@ menu:
 
     - identifier: github
       name: "GitHub"
-      url: "https://github.com/ajdev-gh"
+      url: "https://github.com/ajdev-gh/codessey"
       weight: 40
 
 params:
   homeInfoParams:
-    Title: Hi there 👋
-    Content: Welcome to The Codessey
+    Title: Welcome to The Codessey
+    Content: Charting the unknown, one line of code at a time  
 
   socialIcons:
     - name: "github"
       url: "https://github.com/ajdev-gh"
+    - name: "leetcode"
+      url: "https://leetcode.com/u/ajaidev"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/ajai-dev-658676413/"
+    - name: "reddit"
+      url: "https://reddit.com/u/Devorik"
+
+
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowReadingTime: true
 
 markup:
   goldmark:
