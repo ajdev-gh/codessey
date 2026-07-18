@@ -34,6 +34,17 @@ menu:
       url: "https://github.com/ajdev-gh"
       weight: 40
 
+params:
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: Welcome to The Codessey
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/ajdev-gh"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/ajai-dev-658676413/"
+
 markup:
   goldmark:
     extensions:
