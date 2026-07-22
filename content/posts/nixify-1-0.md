@@ -128,7 +128,7 @@ anywhere.
 I will actively experimenting with the structural layout. In the next part, we will dig 
 straight into the practical implementation of **Part 1.1**:
 *   Setting up the foundation flake template (`flake.nix`).
-*   Writing the wrapper sNixify #1.0: Blueprinting a Portable, Pure Neovim Wrappertructure using standard Neovim overlay options.
+*   Writing the wrapper structure.
 *   Handling local directory file imports purely without breaking the sandbox.
 
 If you have built wrapped versions of your editors before or have opinions on 
