@@ -1,6 +1,6 @@
 ---
 date: '2026-07-22T23:28:39+05:30'
-draft: true
+draft: false
 title: 'Nixify #1.1: Building a modular Neovim Wrapper'
 tags: ['nixify']
 series: ['nixify']
@@ -101,5 +101,8 @@ With `flake-parts` and `import-tree` exposing the module to our outputs, running
 sandbox.
 
 ![nvim build](nixify-1-1-build.gif)
+
+You can check the files talked about in this post (and upcoming posts of this
+series) at [ajdev-gh/nix](https://github.com/ajdev-gh/nix).
 
 See you in issue #1.2!
