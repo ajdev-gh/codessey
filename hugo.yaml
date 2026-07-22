@@ -4,8 +4,9 @@ title: The Codessey
 theme: PaperMod
 
 taxonomies:
-  tag: "tags"
-  category: "categories"
+  tag: tags
+  category: categories
+  series: series
 
 menu:
   main:
@@ -18,6 +19,10 @@ menu:
       name: "Tags"
       url: "/tags/"
       weight: 15
+
+    - name: Series
+      url: /series/
+      weight: 10
 
     - identifier: archives
       name: "Archive"
