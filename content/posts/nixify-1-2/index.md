@@ -2,7 +2,7 @@
 date: '2026-07-23T22:24:16+05:30'
 draft: false
 title: 'Nixify #1.2: LSPs, Formatters & Hermetic Runtime Binaries'
-tags: ['nixify']
+tags: ['nixify','neovim']
 series: ['nixify']
 ShowToc: true
 ---

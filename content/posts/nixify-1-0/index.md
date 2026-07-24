@@ -2,7 +2,7 @@
 date: '2026-07-19T19:49:07+05:30'
 draft: false
 title: 'Nixify #1.0: Blueprinting a Portable, Pure Neovim Wrapper'
-tags: ['nixify']
+tags: ['nixify','neovim']
 series: ['nixify']
 ShowToc: true
 ---
