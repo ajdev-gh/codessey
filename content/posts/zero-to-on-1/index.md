@@ -2,7 +2,7 @@
 date: '2026-07-21T22:04:19+05:30'
 draft: false
 title: 'Zero to O(N) #01: Two Sum'
-tags: ['Zero-To-O(N)']
+tags: ['Zero-To-O(N)', 'DSA', 'java', 'leetcode']
 series: ['Zero-To-O(N)']
 math: true
 ShowToc: true
